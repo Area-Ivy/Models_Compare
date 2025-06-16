@@ -220,11 +220,11 @@
 
 #### chatg1m3-6b
 
-![deployment](/chatglm3-6b/deployment.png)
+![deployment](chatglm3-6b/deployment.png)
 
 #### Qwen-7B-Chat
 
-![deployment](/Qwen-7B-Chat/deployment.png)
+![deployment](Qwen-7B-Chat/deployment.png)
 
 
 ## 7. 附录2：回答数据及截图
@@ -233,19 +233,19 @@
 
 #### Baichuan2-7B-Chat
 
-![question1](Baichuan2-7B-Chat\question1.png)
+![question1](Baichuan2-7B-Chat/question1.png)
 
 这两句话的区别在于，它们分别描述了不同季节的穿衣原则。在冬天，建议穿更多的衣物来保暖，而在夏天，建议穿较少的衣物来散热。所以，这两句话的核心区别在于季节和气候条件对穿衣需求的影响。
 
 #### chatg1m3-6b
 
-![question1](chatglm3-6b\question1.png)
+![question1](chatglm3-6b/question1.png)
 
 这两句话的区别在于，第一句是关于冬天的，而第二句是关于夏天的。虽然两句话都在描述穿多少衣服，但是它们所针对的季节不同。
 
 #### Qwen-7B-Chat
 
-![question1](Qwen-7B-Chat\question1.png)
+![question1](Qwen-7B-Chat/question1.png)
 
 这两句话的主要区别在于它们的语境和语气。
 
@@ -259,13 +259,13 @@
 
 #### Baichuan2-7B-Chat
 
-![question2](Baichuan2-7B-Chat\question2.png)
+![question2](Baichuan2-7B-Chat/question2.png)
 
 单身狗的产生原因主要是由于缺乏自信和社交技能不足。
 
 #### chatg1m3-6b
 
-![question2](chatglm3-6b\question2.png)
+![question2](chatglm3-6b/question2.png)
 
 这两个句子在表达意思上有一定的区别。
 
@@ -273,7 +273,7 @@
 
 #### Qwen-7B-Chat
 
-![question2](Qwen-7B-Chat\question2.png)
+![question2](Qwen-7B-Chat/question2.png)
 
 这两个句子的语义有很大的不同。第一个句子描述了单身狗产生的两个原因，而第二个句子则只提到了一个原因，即"谁都看不上"。因此，第二个句子更加简洁和直接，而第一个句子则提供了更多的细节和解释。同时，这两个句子也存在一些语言上的差异，例如第一个句子使用了被动语态，而第二个句子则使用了主动语态。
 
@@ -281,13 +281,13 @@
 
 #### Baichuan2-7B-Chat
 
-![question3](Baichuan2-7B-Chat\question3.png)
+![question3](Baichuan2-7B-Chat/question3.png)
 
 在这个句子中，我们知道(我们)知道(我们)知道(某人不知道)。所以，某人不知道
 
 #### chatg1m3-6b
 
-![question3](chatglm3-6b\question3.png)
+![question3](chatglm3-6b/question3.png)
 
 这句话是一个典型的谜语或者绕口令,它的含义是:一个人知道另外一个人知道某些事情,但是这个人自己并不知道这些事情。
 
@@ -295,7 +295,7 @@
 
 #### Qwen-7B-Chat
 
-![question3](Qwen-7B-Chat\question3.png)
+![question3](Qwen-7B-Chat/question3.png)
 
 这是一道涉及到逻辑推理的问题。在没有提供更多的上下文信息之前，我们无法确定具体的情况。
 
@@ -305,19 +305,19 @@
 
 #### Baichuan2-7B-Chat
 
-![question4](Baichuan2-7B-Chat\question4.png)
+![question4](Baichuan2-7B-Chat/question4.png)
 
 从这句话中，我们无法判断明明和白白之间谁喜欢谁。这句话主要表达了作者对明明和白白的喜欢不表达的不满
 
 #### chatg1m3-6b
 
-![question4](chatglm3-6b\question4.png)
+![question4](chatglm3-6b/question4.png)
 
 这句话里,明明喜欢白白。明明明白白白喜欢他,可她就是不说。
 
 #### Qwen-7B-Chat
 
-![question4](Qwen-7B-Chat\question4.png)
+![question4](Qwen-7B-Chat/question4.png)
 
 这句话里，明明喜欢白白。
 
@@ -325,7 +325,7 @@
 
 #### Baichuan2-7B-Chat
 
-![question5](Baichuan2-7B-Chat\question5.png)
+![question5](Baichuan2-7B-Chat/question5.png)
 
 在这段对话中，"意思"这个词在不同的语境下有不同的含义。以下是每个"意思"的含义:
 
@@ -341,7 +341,7 @@
 
 #### chatg1m3-6b
 
-![question5](chatglm3-6b\question5.png)
+![question5](chatglm3-6b/question5.png)
 
 1、领导:你这是什么意思?-意思:这里的意思是指含义、目的或作用。领导在问小明到底是什么意思。
 
@@ -361,7 +361,7 @@
 
 #### Qwen-7B-Chat
 
-![question5](Qwen-7B-Chat\question5.png)
+![question5](Qwen-7B-Chat/question5.png)
 
 根据语境分析，"意思"在这里可能是表示某种意图、想法或者情况。在对话中，小明多次使用"意思意思"来表达自己的无意识的幽默感或随便的态度，而领导则将这种态度误解为缺乏尊重和诚意。
 
