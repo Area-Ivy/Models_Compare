@@ -220,11 +220,11 @@
 
 #### chatg1m3-6b
 
-![deployment](chatglm3-6b\deployment.png)
+![deployment](\chatglm3-6b\deployment.png)
 
 #### Qwen-7B-Chat
 
-![deployment](Qwen-7B-Chat\deployment.png)
+![deployment](/Qwen-7B-Chat/deployment.png)
 
 
 ## 7. 附录2：回答数据及截图
