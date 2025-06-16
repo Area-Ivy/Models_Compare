@@ -216,11 +216,11 @@
 
 #### Baichuan2-7B-Chat
 
-![deployment](.\Baichuan2-7B-Chat\deployment.png)
+![deployment](Baichuan2-7B-Chat/deployment.png)
 
 #### chatg1m3-6b
 
-![deployment](\chatglm3-6b\deployment.png)
+![deployment](/chatglm3-6b/deployment.png)
 
 #### Qwen-7B-Chat
 
