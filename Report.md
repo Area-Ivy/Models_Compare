@@ -216,7 +216,7 @@
 
 #### Baichuan2-7B-Chat
 
-![deployment](Baichuan2-7B-Chat\deployment.png)
+![deployment](.\Baichuan2-7B-Chat\deployment.png)
 
 #### chatg1m3-6b
 
